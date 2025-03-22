@@ -1,0 +1,7 @@
+node_modules
+build
+dist
+.vscode
+public
+src/assets
+src-tauri

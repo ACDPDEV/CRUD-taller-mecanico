@@ -1,0 +1,429 @@
+{
+    "cars": [
+        {
+            "id": 0,
+            "plate": "T3K161",
+            "owner": "Nilton Díaz",
+            "mark": "Toyota",
+            "model": "Corolla",
+            "ruc": "1002400347",
+            "services": [
+                {
+                    "date": "2025-01-15",
+                    "action": "Cambio de aceite",
+                    "price": 50
+                },
+                {
+                    "date": "2025-01-20",
+                    "action": "Reparación de frenos",
+                    "price": 120
+                },
+                {
+                    "date": "2025-02-05",
+                    "action": "Sustitución de batería",
+                    "price": 150
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "plate": "B2H973",
+            "owner": "Ana Morales",
+            "mark": "Honda",
+            "model": "Civic",
+            "ruc": "1001400568",
+            "services": [
+                {
+                    "date": "2025-01-10",
+                    "action": "Cambio de filtro de aire",
+                    "price": 30
+                },
+                {
+                    "date": "2025-01-18",
+                    "action": "Alineación de ruedas",
+                    "price": 40
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "plate": "C8X742",
+            "owner": "Carlos López",
+            "mark": "Nissan",
+            "model": "Sentra",
+            "ruc": "1003400895",
+            "services": [
+                {
+                    "date": "2025-01-25",
+                    "action": "Revisión del sistema eléctrico",
+                    "price": 80
+                },
+                {
+                    "date": "2025-02-01",
+                    "action": "Reparación del radiador",
+                    "price": 100
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "plate": "F5J634",
+            "owner": "Luisa Gómez",
+            "mark": "Ford",
+            "model": "Focus",
+            "ruc": "1007201452",
+            "services": [
+                {
+                    "date": "2025-01-12",
+                    "action": "Cambio de neumáticos",
+                    "price": 200
+                },
+                {
+                    "date": "2025-01-22",
+                    "action": "Ajuste de suspensión",
+                    "price": 90
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "plate": "D9P412",
+            "owner": "Pedro Castillo",
+            "mark": "Chevrolet",
+            "model": "Aveo",
+            "ruc": "1005201783",
+            "services": [
+                {
+                    "date": "2025-01-18",
+                    "action": "Cambio de pastillas de freno",
+                    "price": 70
+                },
+                {
+                    "date": "2025-02-02",
+                    "action": "Revisión de motor",
+                    "price": 150
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "plate": "K7N851",
+            "owner": "Rosa Ramírez",
+            "mark": "Mazda",
+            "model": "3",
+            "ruc": "1006902051",
+            "services": [
+                {
+                    "date": "2025-01-30",
+                    "action": "Cambio de correas",
+                    "price": 60
+                },
+                {
+                    "date": "2025-02-05",
+                    "action": "Revisión de aire acondicionado",
+                    "price": 80
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "plate": "Q4L233",
+            "owner": "Mario Vargas",
+            "mark": "Hyundai",
+            "model": "Elantra",
+            "ruc": "1008202410",
+            "services": [
+                {
+                    "date": "2025-01-14",
+                    "action": "Revisión de transmisión",
+                    "price": 110
+                },
+                {
+                    "date": "2025-02-02",
+                    "action": "Reparación de alternador",
+                    "price": 120
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "plate": "Z3X782",
+            "owner": "Carmen Chávez",
+            "mark": "Kia",
+            "model": "Rio",
+            "ruc": "1003802984",
+            "services": [
+                {
+                    "date": "2025-01-16",
+                    "action": "Cambio de amortiguadores",
+                    "price": 100
+                },
+                {
+                    "date": "2025-01-30",
+                    "action": "Limpieza de inyectores",
+                    "price": 60
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "plate": "P8H356",
+            "owner": "Ricardo Torres",
+            "mark": "Volkswagen",
+            "model": "Golf",
+            "ruc": "1004103190",
+            "services": [
+                {
+                    "date": "2025-01-20",
+                    "action": "Cambio de batería",
+                    "price": 120
+                },
+                {
+                    "date": "2025-02-03",
+                    "action": "Revisión del sistema de escape",
+                    "price": 90
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "plate": "X6M912",
+            "owner": "Paola Salinas",
+            "mark": "BMW",
+            "model": "Serie 3",
+            "ruc": "1009703695",
+            "services": [
+                {
+                    "date": "2025-01-10",
+                    "action": "Ajuste de frenos",
+                    "price": 80
+                },
+                {
+                    "date": "2025-01-25",
+                    "action": "Revisión del sistema de dirección",
+                    "price": 110
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "plate": "J1K728",
+            "owner": "Elena Arévalo",
+            "mark": "Mercedes-Benz",
+            "model": "Clase C",
+            "ruc": "1002104142",
+            "services": [
+                {
+                    "date": "2025-01-15",
+                    "action": "Cambio de aceite",
+                    "price": 50
+                },
+                {
+                    "date": "2025-01-28",
+                    "action": "Revisión de frenos",
+                    "price": 60
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "plate": "R4Y398",
+            "owner": "Fernando Díaz",
+            "mark": "Renault",
+            "model": "Duster",
+            "ruc": "1003104518",
+            "services": [
+                {
+                    "date": "2025-01-22",
+                    "action": "Cambio de filtros",
+                    "price": 40
+                },
+                {
+                    "date": "2025-01-29",
+                    "action": "Reparación de luces",
+                    "price": 50
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "plate": "T8C621",
+            "owner": "Natalia Paredes",
+            "mark": "Peugeot",
+            "model": "208",
+            "ruc": "1006105123",
+            "services": [
+                {
+                    "date": "2025-01-12",
+                    "action": "Alineación de ruedas",
+                    "price": 40
+                },
+                {
+                    "date": "2025-02-01",
+                    "action": "Cambio de correas",
+                    "price": 60
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "plate": "H5L940",
+            "owner": "Andrés Calderón",
+            "mark": "Suzuki",
+            "model": "Swift",
+            "ruc": "1005105829",
+            "services": [
+                {
+                    "date": "2025-01-18",
+                    "action": "Revisión del motor",
+                    "price": 90
+                },
+                {
+                    "date": "2025-02-03",
+                    "action": "Cambio de bujías",
+                    "price": 40
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "plate": "M9T412",
+            "owner": "Claudia Rojas",
+            "mark": "Chery",
+            "model": "Tiggo 2",
+            "ruc": "1004106210",
+            "services": [
+                {
+                    "date": "2025-01-10",
+                    "action": "Cambio de aceite",
+                    "price": 50
+                },
+                {
+                    "date": "2025-02-05",
+                    "action": "Reparación de frenos",
+                    "price": 110
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "plate": "L4F308",
+            "owner": "Javier Huerta",
+            "mark": "Subaru",
+            "model": "Forester",
+            "ruc": "1007206541",
+            "services": [
+                {
+                    "date": "2025-01-20",
+                    "action": "Revisión del sistema eléctrico",
+                    "price": 100
+                },
+                {
+                    "date": "2025-02-03",
+                    "action": "Cambio de neumáticos",
+                    "price": 200
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "plate": "K6Z134",
+            "owner": "Olga Reyes",
+            "mark": "Mitsubishi",
+            "model": "Lancer",
+            "ruc": "1008107382",
+            "services": [
+                {
+                    "date": "2025-01-12",
+                    "action": "Reparación de suspensión",
+                    "price": 120
+                },
+                {
+                    "date": "2025-01-28",
+                    "action": "Limpieza de inyectores",
+                    "price": 70
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "plate": "V3P763",
+            "owner": "Sofía Escobar",
+            "mark": "Fiat",
+            "model": "Uno",
+            "ruc": "1003507849",
+            "services": [
+                {
+                    "date": "2025-01-22",
+                    "action": "Cambio de batería",
+                    "price": 90
+                },
+                {
+                    "date": "2025-02-01",
+                    "action": "Revisión del sistema de enfriamiento",
+                    "price": 80
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "plate": "W2N841",
+            "owner": "Luis Ortiz",
+            "mark": "Jeep",
+            "model": "Wrangler",
+            "ruc": "1009508312",
+            "services": [
+                {
+                    "date": "2025-01-10",
+                    "action": "Ajuste de dirección",
+                    "price": 50
+                },
+                {
+                    "date": "2025-02-02",
+                    "action": "Reparación de radiador",
+                    "price": 120
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "plate": "Y5H674",
+            "owner": "Valeria Mendoza",
+            "mark": "Volvo",
+            "model": "XC40",
+            "ruc": "1006309125",
+            "services": [
+                {
+                    "date": "2025-01-18",
+                    "action": "Revisión de frenos",
+                    "price": 80
+                },
+                {
+                    "date": "2025-02-01",
+                    "action": "Cambio de aceite",
+                    "price": 50
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "plate": "Y3P674",
+            "owner": "Arturo Fernandez",
+            "mark": "Nissan",
+            "model": "Sentra",
+            "ruc": "1006309132",
+            "services": [
+                {
+                    "date": "2024-12-08",
+                    "action": "Revisión de motor",
+                    "price": 190
+                },
+                {
+                    "date": "2025-02-01",
+                    "action": "Cambio de aceite",
+                    "price": 50
+                }
+            ]
+        }
+    ]
+}
